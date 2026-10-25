@@ -1,4 +1,4 @@
-# KaluoreWorld 世界观设定
+# ![KaluoreWorld](https://tevg.onsy.qzz.io/font=Lavishly_Yours-size=60px-color=%23637f00/?KaluoreWorld)<br>KaluoreWorld世界观设定
 
 > 一个"因为不完美，所以完美"的乌托邦。
 
